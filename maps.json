@@ -3,6 +3,8 @@
     "id": 1,
     "title": "Parque de Sa Capeletta - Reina Sofía",
     "address": "Carrer de Joan Xicó, 1, 07800 Ibiza, Balearic Islands",
+     "latitude": 38.909112,
+    "longitude": 1.425696,
     "author": "",
     "commentsEnabled": true,
     "commentsPostUrl": "",
