@@ -1,143 +1,140 @@
 [
-  {
-    "id": 1,
-    "title": "Parque de Sa Capeletta - Reina Sofía",
-    "address": "Carrer de Joan Xicó, 1, 07800 Ibiza, Balearic Islands",
-    "latitude": 38.909112,
-    "longitude": 1.425696,
-    "author": "",
-    "commentsEnabled": true,
-    "commentsPostUrl": "",
-    "commentsUrl": "",
-    "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png\" target=\"_blank\"><img src=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png\" alt=\"Parque de Sa Capeletta - Reina Sofía\" title=\"Parque de Sa Capeletta - Reina Sofía\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>This super cute playground, shaded by beautiful trees, is right next to the castle walls. It features a few unique attractions and swings, perfect for a charming playdate.</p></div><br class=\"clear\" />",
-    "date": "2025-01-05T00:00:00+01:00",
-    "email": "",
-    "images": [
-      {
-        "id": "img-1",
-        "url": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png"
-      }
-    ],
-    "largeThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png",
-    "originalThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png",
-    "smallThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png",
-    "thumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png",
-    "nbcomments": 0,
-    "phoneNumber": "",
-    "pinIconColor": "#e94f06",
-    "pinIconHeight": 300,
-    "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
-    "pinIconWidth": 150,
-    "subtype": "custom",
-    "summary": "This super cute playground, shaded by beautiful trees, is right next to the castle walls.",
-    "type": "maps",
-    "url": "",
-    "website": ""
-  },
-  {
-    "id": 2,
-    "title": "Parque de la Paz",
-    "address": "Parc de la Paz, 07800 Ibiza",
-    "author": "",
-    "commentsEnabled": true,
-    "commentsPostUrl": "",
-    "commentsUrl": "",
-    "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png\" target=\"_blank\"><img src=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png\" alt=\"Parque de la Paz\" title=\"Parque de la Paz\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>Parque de la Paz isn't just a playground; it's a lovely city park with a water fountain, turtles, and a huge play area on the edge of the city center. It's a fantastic spot for a family outing for all ages.</p></div><br class=\"clear\" />",
-    "date": "2025-01-05T00:00:00+01:00",
-    "email": "",
-    "images": [
-      {
-        "id": "img-2",
-        "url": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png"
-      }
-    ],
-    "largeThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png",
-    "originalThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png",
-    "smallThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png",
-    "thumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png",
-    "nbcomments": 0,
-    "phoneNumber": "",
-    "pinIconColor": "#e94f06",
-    "pinIconHeight": 300,
-    "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
-    "pinIconWidth": 150,
-    "subtype": "custom",
-    "summary": "A lovely city park with a water fountain, turtles, and a huge play area.",
-    "type": "maps",
-    "url": "",
-    "website": ""
-  },
-  {
-[
-  {
-    "id": 3,
-    "title": "Parque Infantil Can Misses",
-    "address": "Avinguda de la Pau, 07800 Ibiza, Balearic Islands",
-    "latitude": 38.911234,
-    "longitude": 1.423897,
-    "author": "",
-    "commentsEnabled": true,
-    "commentsPostUrl": "",
-    "commentsUrl": "",
-    "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png\" target=\"_blank\"><img src=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png\" alt=\"Parque Infantil Can Misses\" title=\"Parque Infantil Can Misses\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>A spacious park with a variety of playground structures and plenty of green areas for a family outing.</p></div><br class=\"clear\" />",
-    "date": "2025-01-05T00:00:00+01:00",
-    "email": "",
-    "images": [
-      {
-        "id": "img-3",
-        "url": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png"
-      }
-    ],
-    "largeThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png",
-    "originalThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png",
-    "smallThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png",
-    "thumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png",
-    "nbcomments": 0,
-    "phoneNumber": "",
-    "pinIconColor": "#e94f06",
-    "pinIconHeight": 300,
-    "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
-    "pinIconWidth": 150,
-    "subtype": "custom",
-    "summary": "A spacious park with various playground structures and green areas.",
-    "type": "maps",
-    "url": "",
-    "website": ""
-  },
-  {
-    "id": 4,
-    "title": "Parque Infantil Santa Eulària",
-    "address": "Passeig de s'Alamera, 07840 Santa Eulària des Riu",
-    "latitude": 38.984582,
-    "longitude": 1.534026,
-    "author": "",
-    "commentsEnabled": true,
-    "commentsPostUrl": "",
-    "commentsUrl": "",
-    "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png\" target=\"_blank\"><img src=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png\" alt=\"Parque Infantil Santa Eulària\" title=\"Parque Infantil Santa Eulària\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>A vibrant playground near the marina, perfect for toddlers and older kids alike.</p></div><br class=\"clear\" />",
-    "date": "2025-01-05T00:00:00+01:00",
-    "email": "",
-    "images": [
-      {
-        "id": "img-4",
-        "url": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png"
-      }
-    ],
-    "largeThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png",
-    "originalThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png",
-    "smallThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png",
-    "thumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png",
-    "nbcomments": 0,
-    "phoneNumber": "",
-    "pinIconColor": "#e94f06",
-    "pinIconHeight": 300,
-    "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
-    "pinIconWidth": 150,
-    "subtype": "custom",
-    "summary": "A vibrant playground near the marina, perfect for all age groups.",
-    "type": "maps",
-    "url": "",
-    "website": ""
-  }
+    {
+        "id": 1,
+        "title": "Parque de Sa Capeletta - Reina Sofía",
+        "address": "Carrer de Joan Xicó, 1, 07800 Ibiza, Balearic Islands",
+        "latitude": 38.909112,
+        "longitude": 1.425696,
+        "author": "",
+        "commentsEnabled": true,
+        "commentsPostUrl": "",
+        "commentsUrl": "",
+        "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png\" target=\"_blank\"><img src=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png\" alt=\"Parque de Sa Capeletta - Reina Sofía\" title=\"Parque de Sa Capeletta - Reina Sofía\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>This super cute playground, shaded by beautiful trees, is right next to the castle walls. It features a few unique attractions and swings, perfect for a charming playdate.</p></div><br class=\"clear\" />",
+        "date": "2025-01-05T00:00:00+01:00",
+        "email": "",
+        "images": [
+            {
+                "id": "img-1",
+                "url": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png"
+            }
+        ],
+        "largeThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png",
+        "originalThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png",
+        "smallThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png",
+        "thumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409355/Parque_Reina_Sofia_plaza_Ibiza_jgffs1.png",
+        "nbcomments": 0,
+        "phoneNumber": "",
+        "pinIconColor": "#e94f06",
+        "pinIconHeight": 300,
+        "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
+        "pinIconWidth": 150,
+        "subtype": "custom",
+        "summary": "This super cute playground, shaded by beautiful trees, is right next to the castle walls.",
+        "type": "maps",
+        "url": "",
+        "website": ""
+    },
+    {
+        "id": 2,
+        "title": "Parque de la Paz",
+        "address": "Parc de la Paz, 07800 Ibiza",
+        "author": "",
+        "commentsEnabled": true,
+        "commentsPostUrl": "",
+        "commentsUrl": "",
+        "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png\" target=\"_blank\"><img src=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png\" alt=\"Parque de la Paz\" title=\"Parque de la Paz\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>Parque de la Paz isn't just a playground; it's a lovely city park with a water fountain, turtles, and a huge play area on the edge of the city center. It's a fantastic spot for a family outing for all ages.</p></div><br class=\"clear\" />",
+        "date": "2025-01-05T00:00:00+01:00",
+        "email": "",
+        "images": [
+            {
+                "id": "img-2",
+                "url": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png"
+            }
+        ],
+        "largeThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png",
+        "originalThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png",
+        "smallThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png",
+        "thumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409343/Parc_de_La_Paz_jk1sap.png",
+        "nbcomments": 0,
+        "phoneNumber": "",
+        "pinIconColor": "#e94f06",
+        "pinIconHeight": 300,
+        "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
+        "pinIconWidth": 150,
+        "subtype": "custom",
+        "summary": "A lovely city park with a water fountain, turtles, and a huge play area.",
+        "type": "maps",
+        "url": "",
+        "website": ""
+    },
+    {
+        "id": 3,
+        "title": "Parque Infantil Can Misses",
+        "address": "Avinguda de la Pau, 07800 Ibiza, Balearic Islands",
+        "latitude": 38.911234,
+        "longitude": 1.423897,
+        "author": "",
+        "commentsEnabled": true,
+        "commentsPostUrl": "",
+        "commentsUrl": "",
+        "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png\" target=\"_blank\"><img src=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png\" alt=\"Parque Infantil Can Misses\" title=\"Parque Infantil Can Misses\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>A spacious park with a variety of playground structures and plenty of green areas for a family outing.</p></div><br class=\"clear\" />",
+        "date": "2025-01-05T00:00:00+01:00",
+        "email": "",
+        "images": [
+            {
+                "id": "img-3",
+                "url": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png"
+            }
+        ],
+        "largeThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png",
+        "originalThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png",
+        "smallThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png",
+        "thumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409354/parc_de_S_illa_Can_Misses_xo5psw.png",
+        "nbcomments": 0,
+        "phoneNumber": "",
+        "pinIconColor": "#e94f06",
+        "pinIconHeight": 300,
+        "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
+        "pinIconWidth": 150,
+        "subtype": "custom",
+        "summary": "A spacious park with various playground structures and green areas.",
+        "type": "maps",
+        "url": "",
+        "website": ""
+    },
+    {
+        "id": 4,
+        "title": "Parque Infantil Santa Eulària",
+        "address": "Passeig de s'Alamera, 07840 Santa Eulària des Riu",
+        "latitude": 38.984582,
+        "longitude": 1.534026,
+        "author": "",
+        "commentsEnabled": true,
+        "commentsPostUrl": "",
+        "commentsUrl": "",
+        "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png\" target=\"_blank\"><img src=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png\" alt=\"Parque Infantil Santa Eulària\" title=\"Parque Infantil Santa Eulària\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>A vibrant playground near the marina, perfect for toddlers and older kids alike.</p></div><br class=\"clear\" />",
+        "date": "2025-01-05T00:00:00+01:00",
+        "email": "",
+        "images": [
+            {
+                "id": "img-4",
+                "url": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png"
+            }
+        ],
+        "largeThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png",
+        "originalThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png",
+        "smallThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png",
+        "thumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409353/Parc_Infantil_Santa_Eularia_Rio_prbbyj.png",
+        "nbcomments": 0,
+        "phoneNumber": "",
+        "pinIconColor": "#e94f06",
+        "pinIconHeight": 300,
+        "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
+        "pinIconWidth": 150,
+        "subtype": "custom",
+        "summary": "A vibrant playground near the marina, perfect for all age groups.",
+        "type": "maps",
+        "url": "",
+        "website": ""
+    }
 ]
-
