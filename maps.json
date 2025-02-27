@@ -38,6 +38,8 @@
         "id": 2,
         "title": "Parque de la Paz",
         "address": "Parc de la Paz, 07800 Ibiza",
+        "latitude": 38.90879867638011, 
+        "longitude": 1.42571107740366686,
         "author": "",
         "commentsEnabled": true,
         "commentsPostUrl": "",
