@@ -663,40 +663,5 @@
     "type": "maps",
     "url": "",
     "website": ""
-  },
-  {
-    "id": 20,
-    "title": "Parque Infantil Es Cubells",
-    "address": "Es Cubells, 07839 Sant Josep de sa Talaia, Illes Balears",
-    "latitude": 38.8810253,
-    "longitude": 1.2720161,
-    "author": "",
-    "commentsEnabled": true,
-    "commentsPostUrl": "",
-    "commentsUrl": "",
-    "content": "<div class=\"photo top\" style=\"text-align:center\"><a href=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409342/Es_Cubells_b39ngy.jpg\" target=\"_blank\"><img src=\"https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409342/Es_Cubells_b39ngy.jpg\" alt=\"Parque Infantil Es Cubells\" title=\"Parque Infantil Es Cubells\" /></a></div><br class=\"clear\" /><div class=\"texte\"><p>A small, peaceful playground in the charming village of Es Cubells, with breathtaking sea views and a relaxed atmosphere.</p></div><br class=\"clear\" />",
-    "date": "2025-01-05T00:00:00+01:00",
-    "email": "",
-    "images": [
-      {
-        "id": "img-20",
-        "url": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409342/Es_Cubells_b39ngy.jpg"
-      }
-    ],
-    "largeThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409342/Es_Cubells_b39ngy.jpg",
-    "originalThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409342/Es_Cubells_b39ngy.jpg",
-    "smallThumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409342/Es_Cubells_b39ngy.jpg",
-    "thumbnail": "https://res.cloudinary.com/dhgfmuuo9/image/upload/c_crop,ar_1:1,e_improve/v1740409342/Es_Cubells_b39ngy.jpg",
-    "nbcomments": 0,
-    "phoneNumber": "",
-    "pinIconColor": "#e94f06",
-    "pinIconHeight": 300,
-    "pinIconUrl": "https://example.goodbarber.com/assets/img/gbpreview/mask/map-pin1.png",
-    "pinIconWidth": 150,
-    "subtype": "custom",
-    "summary": "A peaceful playground in Es Cubells with breathtaking sea views.",
-    "type": "maps",
-    "url": "",
-    "website": ""
     }
 ]
